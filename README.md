@@ -57,7 +57,7 @@ Contributions to enhance the functionality are most welcome. Fork this repositor
 
 ## License
 
-This project is licensed under the MIT License. For more information, see [LICENSE.md](LICENSE.md).
+This project is licensed under the MIT License. For more information, see [LICENSE.md](https://github.com/roboticvedant/Verilog-PID-Controller/blob/main/LICENSE).
 
 ---
 
