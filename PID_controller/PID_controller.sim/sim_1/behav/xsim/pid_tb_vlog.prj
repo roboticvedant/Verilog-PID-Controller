@@ -1,0 +1,10 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../PID_controller.srcs/sources_1/new/pid.v" \
+"../../../../PID_controller.srcs/sim_1/new/pid_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

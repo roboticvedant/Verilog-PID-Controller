@@ -1,0 +1,24 @@
+Vivado Simulator 2020.2
+Time resolution is 1 ps
+Control signal is     x
+Integral is     0
+Control signal is    95
+Integral is    38
+Control signal is   132
+Integral is    68
+Control signal is   124
+Integral is    92
+Control signal is   139
+Integral is   112
+Control signal is   145
+Integral is   126
+Control signal is   158
+Integral is   140
+Control signal is   165
+Integral is   150
+Control signal is   168
+Integral is   158
+Control signal is   132
+Integral is   148
+Control signal is   114
+$finish called at time : 150 ns : File "M:/My Documents/PID_controller/PID_controller.srcs/sim_1/new/pid_tb.v" Line 38
